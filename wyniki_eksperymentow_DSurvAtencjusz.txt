@@ -1,0 +1,43 @@
+RAPORT
+
+ZBIÓR: Brain Cancer
+C-index (średnia): 0.7935 +/- 0.0006
+IBS (średnia):     0.0733 +/- 0.0004
+Najlepszy C-index: 0.7944
+
+
+ZBIÓR: Breast Cancer
+C-index (średnia): 0.7730 +/- 0.0015
+IBS (średnia):     0.1247 +/- 0.0007
+Najlepszy C-index: 0.7739
+
+
+ZBIÓR: Leukemia
+C-index (średnia): 0.7881 +/- 0.0006
+IBS (średnia):     0.1050 +/- 0.0009
+Najlepszy C-index: 0.7891
+
+
+ZBIÓR: Lung Cancer
+C-index (średnia): 0.7038 +/- 0.0010
+IBS (średnia):     0.0319 +/- 0.0001
+Najlepszy C-index: 0.7046
+
+
+ZBIÓR: Lymphoma
+C-index (średnia): 0.7473 +/- 0.0013
+IBS (średnia):     0.1247 +/- 0.0005
+Najlepszy C-index: 0.7489
+
+
+ZBIÓR: Prostate Cancer
+C-index (średnia): 0.7692 +/- 0.0004
+IBS (średnia):     0.0952 +/- 0.0001
+Najlepszy C-index: 0.7698
+
+
+ZBIÓR: Small Intestine Cancer
+C-index (średnia): 0.7566 +/- 0.0702
+IBS (średnia):     0.1146 +/- 0.0094
+Najlepszy C-index: 0.7823
+
