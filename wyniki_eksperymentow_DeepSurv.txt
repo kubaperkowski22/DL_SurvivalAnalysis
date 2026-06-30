@@ -1,39 +1,43 @@
-RAPORT - KLASYCZNY DEEPSURV
+RAPORT - DEEPSURV
 
 ZBIÓR: Brain Cancer
-C-index (średnia): 0.7930 +/- 0.0006
-IBS (średnia):     0.0731 +/- 0.0004
-Najlepszy C-index: 0.7941
+C-index (średnia): 0.7930 +/- 0.0005
+IBS (średnia):     0.0729 +/- 0.0004
+Najlepszy C-index: 0.7938
 
 
 ZBIÓR: Breast Cancer
-C-index (średnia): 0.7729 +/- 0.0004
-IBS (średnia):     0.1241 +/- 0.0007
-Najlepszy C-index: 0.7736
+C-index (średnia): 0.7727 +/- 0.0004
+IBS (średnia):     0.1241 +/- 0.0004
+Najlepszy C-index: 0.7732
 
 
 ZBIÓR: Leukemia
+C-index (średnia): 0.7028 +/- 0.0004
+IBS (średnia):     0.1172 +/- 0.0006
+Najlepszy C-index: 0.7032
+
 
 ZBIÓR: Lung Cancer
-C-index (średnia): 0.7045 +/- 0.0003
+C-index (średnia): 0.7047 +/- 0.0003
 IBS (średnia):     0.0319 +/- 0.0001
-Najlepszy C-index: 0.7049
+Najlepszy C-index: 0.7052
 
 
 ZBIÓR: Lymphoma
-C-index (średnia): 0.7487 +/- 0.0005
-IBS (średnia):     0.1231 +/- 0.0003
-Najlepszy C-index: 0.7494
+C-index (średnia): 0.7488 +/- 0.0009
+IBS (średnia):     0.1231 +/- 0.0004
+Najlepszy C-index: 0.7503
 
 
 ZBIÓR: Prostate Cancer
-C-index (średnia): 0.7690 +/- 0.0003
-IBS (średnia):     0.0950 +/- 0.0003
-Najlepszy C-index: 0.7694
+C-index (średnia): 0.7690 +/- 0.0002
+IBS (średnia):     0.0952 +/- 0.0003
+Najlepszy C-index: 0.7693
 
 
 ZBIÓR: Small Intestine Cancer
-C-index (średnia): 0.7712 +/- 0.0027
-IBS (średnia):     0.1138 +/- 0.0006
-Najlepszy C-index: 0.7757
+C-index (średnia): 0.7714 +/- 0.0036
+IBS (średnia):     0.1141 +/- 0.0014
+Najlepszy C-index: 0.7752
 
