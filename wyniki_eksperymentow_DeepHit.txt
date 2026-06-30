@@ -1,0 +1,43 @@
+RAPORT - KLASYCZNY DEEPHIT
+
+ZBIÓR: Brain Cancer
+C-index (średnia): 0.7944 +/- 0.0014
+IBS (średnia):     0.1539 +/- 0.0048
+Najlepszy C-index: 0.7964
+
+
+ZBIÓR: Breast Cancer
+C-index (średnia): 0.7782 +/- 0.0009
+IBS (średnia):     0.1582 +/- 0.0003
+Najlepszy C-index: 0.7796
+
+
+ZBIÓR: Leukemia
+C-index (średnia): 0.7105 +/- 0.0005
+IBS (średnia):     0.1780 +/- 0.0003
+Najlepszy C-index: 0.7112
+
+
+ZBIÓR: Lung Cancer
+C-index (średnia): 0.7078 +/- 0.0005
+IBS (średnia):     0.0570 +/- 0.0003
+Najlepszy C-index: 0.7085
+
+
+ZBIÓR: Lymphoma
+C-index (średnia): 0.7654 +/- 0.0004
+IBS (średnia):     0.1739 +/- 0.0003
+Najlepszy C-index: 0.7658
+
+
+ZBIÓR: Prostate Cancer
+C-index (średnia): 0.7695 +/- 0.0003
+IBS (średnia):     0.1447 +/- 0.0005
+Najlepszy C-index: 0.7701
+
+
+ZBIÓR: Small Intestine Cancer
+C-index (średnia): 0.7499 +/- 0.0294
+IBS (średnia):     0.2084 +/- 0.0092
+Najlepszy C-index: 0.7746
+
