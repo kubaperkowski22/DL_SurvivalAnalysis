@@ -80,6 +80,8 @@ def prepare_leukemia_data(filepath):
 
     df = pd.get_dummies(df, columns=cat_cols_present, dummy_na=False, drop_first=True)
 
+    df = df.select_dtypes(exclude=['object'])
+
     # podział na zbiory Train, Val, Test
     try:
         df_train, df_test = train_test_split(df, test_size=0.2, random_state=42)
