@@ -119,6 +119,15 @@ def prepare_small_intestine_cancer_data(filepath):
     x_val_df, y_val = get_x_y(df_val)
     x_test_df, y_test = get_x_y(df_test)
 
+######################### nazwy indeksów cech #########################
+    feature_names = x_train_df.columns.tolist()
+    feature_mapping = {index: name for index, name in enumerate(feature_names)}
+    
+    print("\n--- SŁOWNIK NAZW CECH ---")
+    # Wypisanie np. pierwszych 30 cech, żebyś mógł uzupełnić tabelę
+    for i in range(len(feature_mapping)):
+        print(f"Indeks {i} -> {feature_mapping[i]}")
+    print("--------------------------\n")
 
     # Imputacja i Skalowanie
     imputer = SimpleImputer(strategy='median')
